@@ -1,25 +1,10 @@
-## Hi there 👋
-
-<!--
-**ziaulislam-mughal/ziaulislam-mughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ..# Hi there 👋, I'm Zia ul islam Mughal
-
-### 🤖 Generative AI Engineer
+### 🤖  AI Engineer
 
 I specialize in building intelligent, scalable Generative AI applications and turning complex data into impactful solutions. I am passionate about pushing the boundaries of what AI can do, focusing on robust data pipelines, deep learning, and cutting-edge Gen AI frameworks.
 
 ---
 
 ## 📊 Professional GitHub Stats
-
-*(These cards will automatically update as you commit code!)*
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ziaulislam-mughal&show_icons=true&theme=radical&hide_border=true&title_color=0077B5" alt="Zia's GitHub Stats" />
@@ -72,9 +57,5 @@ To see my latest code, algorithms, and application architectures:
 
 Are you looking to build a Gen AI application or need expertise in machine learning? Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE) 
-*(Note: Replace "YOUR_LINKEDIN_URL_HERE" with your actual LinkedIn profile link!)*.
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ziaulislammughal/) 
+
