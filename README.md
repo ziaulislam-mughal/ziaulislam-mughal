@@ -1,6 +1,10 @@
-### 🤖  AI Engineer
+## 🤖  AI Engineer 
 
-I specialize in building intelligent, scalable Generative AI applications and turning complex data into impactful solutions. I am passionate about pushing the boundaries of what AI can do, focusing on robust data pipelines, deep learning, and cutting-edge Gen AI frameworks.
+Welcome to my profile! <br>
+The person behind this account isn't an AI expert .<br>
+Just yet—I’m a passionate learner currently on the journey to becoming an AI Engineer. <br>
+Right now, I'm diving deep into LangChain and exploring the inner workings of Generative AI.<br>
+Stick around, because you'll definitely see some exciting Gen AI projects popping up here very soon!<br>
 
 ---
 
