@@ -1,4 +1,4 @@
-<!-- Header Section -->
+_<!-- Header Section -->
 <div align="center">
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Zia ul islam Mughal </h1>
@@ -11,7 +11,7 @@
 <h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5612AQHmbpYRanwhfQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1735300309639?e=2147483647&v=beta&t=OFkHA6D6JoE5n5-TN487s5WIvc15d29IDfUcYdXnCk0" alt="Welcome" width="1000"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCBv2G6yvMIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728431488233?e=1775088000&v=beta&t=xgCIxHt75Ob7rgxQRoW7YzgauwJwmka095tA7V5zpds" alt="Zia ul Islam Mughal Banner" width="1000"/>
 </p>
 
 ---
