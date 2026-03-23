@@ -101,8 +101,8 @@ _<!-- Header Section -->
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ziaulislam-mughal&theme=dark&hide_border=false&ring_color=87CEEB&title_color=4B9CD3&text_color=87CEEB&include_all_commits=false&count_private=false"
              width="100%" style="display:block; margin:0;" alt="GitHub Stats"/>
       <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=ziaulislam-mughal&theme=dark&hide_border=false&ring=87CEEB&fire=87CEEB&currStreakLabel=4B9CD3" width="100%" alt="ziaulislam-mughal Streak Stats" />
-      <br/>
+<img src="https://streak-stats.demolab.com?user=ziaulislam-mughal&theme=dark&hide_border=false&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakLabel=4B9CD3" width="100%" alt="ziaulislam-mughal Streak Stats" />
+<br/>
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ziaulislam-mughal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"
              width="100%" style="display:block; margin:0;" alt="Top Languages"/>
     </td>
