@@ -4,12 +4,8 @@ _<!-- Header Section -->
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm   Zia ul islam Mughal </h1>
  
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Engineer;Machine%20Learning%20Developer%20Specialist;Gen%20AI%20Engineer;Automation%20Focused+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Student;Python%20Developer" />
 </p>
-  
-  
-<h3  align="center"> AI ML ENGINEER ,GENERATIVE AI ENGINEER </h3>
-
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCBv2G6yvMIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728431488233?e=1775088000&v=beta&t=xgCIxHt75Ob7rgxQRoW7YzgauwJwmka095tA7V5zpds" alt="Zia ul Islam Mughal Banner" width="1000"/>
 </p>
@@ -35,8 +31,8 @@ _<!-- Header Section -->
 
 > *"If you want to be the best, you have to work more than the rest."*
 
-🔭 **Currently Working On:** AI ML and Gen AI </br> 
-🎯 **Expert In:** AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
+🔭 **Currently Working On:** Gen AI </br> 
+🎯 **Experience(Intermediate level) In:** Gen AI & LLM Engineering, production-ready AI workflows, and intelligent automation systems   </br> 
 👯 **Looking to Collaborate:** AI-powered applications, full-stack platforms, and automation systems   </br> 
 💬 **Ask Me About:** AI/LLM engineering, agentic AI solutions, production AI workflows </br> 
 🎓 **Education:** 6TH Semester  AI student at UAJK King  Abdullah Campus</br> 
