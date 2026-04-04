@@ -6,8 +6,9 @@ _<!-- Header Section -->
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;pause=1200&amp;color=00D4FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Artificial%20Intelligence%20Student;Python%20Developer" />
 </p>
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHCBv2G6yvMIQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728431488233?e=1775088000&v=beta&t=xgCIxHt75Ob7rgxQRoW7YzgauwJwmka095tA7V5zpds" alt="Zia ul Islam Mughal Banner" width="1000"/>
+  <img src="Banner\tech.png" alt="Zia ul Islam Mughal Banner" width="1000"/>
 </p>
 
 ---
